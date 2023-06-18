@@ -125,3 +125,7 @@ html{
 .container-fluid {
 	top: -227px;
 }
+#about .nav-item a {
+    margin-left: 13px;
+    color: #4F1A01;
+}

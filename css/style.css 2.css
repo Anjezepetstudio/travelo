@@ -1,0 +1,9 @@
+@charset "utf-8";
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    width: 929px;
+    background-image: -webkit-repeating-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,137,137,1.00) 46.11%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-repeating-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,137,137,1.00) 46.11%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-repeating-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,137,137,1.00) 46.11%,rgba(255,0,0,1.00) 100%);
+    background-image: repeating-linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,137,137,1.00) 46.11%,rgba(255,0,0,1.00) 100%);
+    margin-left: 114px;
+}
